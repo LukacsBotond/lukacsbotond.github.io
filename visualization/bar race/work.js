@@ -1,7 +1,7 @@
 // https://observablehq.com/@d3/bar-chart-race@3058
 export default function define(runtime, observer) {
   const main = runtime.module();
-  const fileAttachments = new Map([["category-brands.csv", new URL("./files/adat", import.meta.url)]]);
+  const fileAttachments = new Map([["category-brands.csv", new URL(pathToFile, import.meta.url)]]);
   main.builtin("FileAttachment", runtime.fileAttachments(name => fileAttachments.get(name)));
   /*
    main.variable(observer()).define(["md"], function(md){return(
@@ -52,15 +52,15 @@ export default function define(runtime, observer) {
     }
   }
   );
-  
+
   main.variable(observer("duration")).define("duration", function () {
     return (
-      250
+      500
     )
   });
   main.variable(observer("n")).define("n", function () {
     return (
-      12
+      25
     )
   });
   main.variable(observer("names")).define("names", ["data"], function (data) {
@@ -194,7 +194,7 @@ export default function define(runtime, observer) {
   });
   main.variable(observer("formatNumber")).define("formatNumber", ["d3"], function (d3) {
     return (
-      d3.format(",d")
+      d3.format(".2f")
     )
   });
   main.variable(observer("tickFormat")).define("tickFormat", function () {
