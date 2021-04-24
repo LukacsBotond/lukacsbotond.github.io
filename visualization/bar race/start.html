@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Visualizacio valaszto</title>
+
+<body>
+
+    <button onclick="mixHr()">mixHr</button>
+    <br>
+    <button onclick="UrbHr()">UrbHr</button>
+    <br>
+    <button onclick="RurHr()">RurHr</button>
+
+    <script>
+        function mixHr(){
+            sessionStorage.setItem("pathToFile", "./files/adatmixhr");
+            window.location = "./index.html"; 
+        }
+        function UrbHr(){
+            sessionStorage.setItem("pathToFile", "./files/adatUrbHr");
+            window.location = "./index.html"; 
+        }
+        function RurHr(){
+            sessionStorage.setItem("pathToFile", "./files/adatRurHr");
+            window.location = "./index.html"; 
+        }
+    </script>
+
+</body>
