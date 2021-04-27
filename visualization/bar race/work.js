@@ -55,7 +55,7 @@ export default function define(runtime, observer) {
 
   main.variable(observer("duration")).define("duration", function () {
     return (
-      500
+      1000
     )
   });
   main.variable(observer("n")).define("n", function () {

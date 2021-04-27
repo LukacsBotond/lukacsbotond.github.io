@@ -1,4 +1,4 @@
-date,name,category,value,db
+date,name,category,value
 2015-01-01,Aprily Lajos Altalanos Iskola,Rural,5.521,32
 2015-01-01,Baczkamadarasi Kis Gergely Reformatus Kollegium,Urban,7.686,57
 2015-01-01,Bethlen Gabor Altalanos Iskola,Rural,5.375,35
@@ -28,3 +28,114 @@ date,name,category,value,db
 2015-01-01,Siklodi Lorinc Altalanos Iskola,Rural,6.783,35
 2015-01-01,Sover Elek Szakkozepiskola,Rural,5.142,40
 2015-01-01,Vaskertes Altalanos Iskola,Urban,6.769,49
+2016-01-01,Aprily Lajos Altalanos Iskola,Rural,5.148
+2016-01-01,Baczkamadarasi Kis Gergely Reformatus Kollegium,Urban,7.581
+2016-01-01,Bethlen Gabor Altalanos Iskola,Rural,5.229
+2016-01-01,Bethlen Gabor Altalanos Iskola,Urban,7.199
+2016-01-01,Colegiul National "Octavian Goga" Miercurea Ciuc,Urban,8.406
+2016-01-01,Dr. P. Boros Fortunat Elmeleti Kozepiskola,Rural,6.092
+2016-01-01,Dr. Pallo Imre Muveszeti Liceum,Urban,6.523
+2016-01-01,Elekes Vencel Altalanos Iskola,Rural,5.509
+2016-01-01,Fogarasy Mihaly Altalanos Iskola,Urban,6.189
+2016-01-01,Frater Gyorgy Altalanos Iskola,Rural,4.82
+2016-01-01,Gyergyotolgyesi Altalanos Iskola,Rural,5.35
+2016-01-01,Jozsef Attila Altalanos Iskola,Urban,5.789
+2016-01-01,Kollo Miklos Altalanos Iskola,Rural,5.754
+2016-01-01,Marton Aron Altalanos Iskola,Rural,5.671
+2016-01-01,Martonffi Janos Altalanos Iskola,Urban,6.316
+2016-01-01,Mora Ferenc Altalanos Iskola,Urban,5.787
+2016-01-01,Nagy Imre Altalanos Iskola,Urban,6.64
+2016-01-01,Nagy Istvan Muveszeti Kozepiskola,Urban,6.468
+2016-01-01,Orban Balazs Altalanos Iskola,Urban,7.612
+2016-01-01,Petofi Sandor Altalanos Iskola,Urban,6.769
+2016-01-01,Petofi Sandor Altalanos Iskola,Urban,5.766
+2016-01-01,Scoala Gimnaziala "Geo Bogza" Balan,Urban,5.82
+2016-01-01,Scoala Gimnaziala "Liviu Rebreanu" Miercurea Ciuc,Urban,7.554
+2016-01-01,Scoala Gimnaziala "Miron Cristea" Toplita,Urban,6.006
+2016-01-01,Scoala Gimnaziala "Sfantu Ilie" Toplita,Urban,5.884
+2016-01-01,Siklodi Lorinc Altalanos Iskola,Rural,6.595
+2016-01-01,Sover Elek Szakkozepiskola,Rural,5.201
+2016-01-01,Tamasi Aron Altalanos Iskola,Urban,5.796
+2016-01-01,Tompa Laszlo Altalanos Iskola,Urban,5.92
+2016-01-01,Vaskertes Altalanos Iskola,Urban,5.71
+2017-01-01,Baczkamadarasi Kis Gergely Reformatus Kollegium,Urban,7.237
+2017-01-01,Bethlen Gabor Altalanos Iskola,Rural,5.547
+2017-01-01,Bethlen Gabor Altalanos Iskola,Urban,6.127
+2017-01-01,Colegiul National "Octavian Goga" Miercurea Ciuc,Urban,7.904
+2017-01-01,Dr. Pallo Imre Muveszeti Liceum,Urban,6.274
+2017-01-01,Endes Jozsef Altalanos Iskola,Rural,5.115
+2017-01-01,Fogarasy Mihaly Altalanos Iskola,Urban,6.147
+2017-01-01,Frater Gyorgy Altalanos Iskola,Rural,5.697
+2017-01-01,Fulop Aron Altalanos Iskola,Rural,5.225
+2017-01-01,Gyergyotolgyesi Altalanos Iskola,Rural,5.785
+2017-01-01,Jozsef Attila Altalanos Iskola,Urban,6.702
+2017-01-01,Kollo Miklos Altalanos Iskola,Rural,5.923
+2017-01-01,Liceul Teoretic "O.C.Taslauanu" Toplita,Urban,7.812
+2017-01-01,Majlath Gusztav Karoly Altalanos Iskola,Rural,5.464
+2017-01-01,Marton Aron Altalanos Iskola,Rural,5.795
+2017-01-01,Martonffi Janos Altalanos Iskola,Urban,6.448
+2017-01-01,Mora Ferenc Altalanos Iskola,Urban,5.852
+2017-01-01,Nagy Imre Altalanos Iskola,Urban,6.525
+2017-01-01,Nagy Istvan Muveszeti Kozepiskola,Urban,7.405
+2017-01-01,Orban Balazs Altalanos Iskola,Urban,7.587
+2017-01-01,Petofi Sandor Altalanos Iskola,Urban,7.539
+2017-01-01,Petofi Sandor Altalanos Iskola,Urban,6.283
+2017-01-01,Scoala Gimnaziala "Geo Bogza" Balan,Urban,6.273
+2017-01-01,Scoala Gimnaziala "Sfantu Ilie" Toplita,Urban,6.581
+2017-01-01,Sover Elek Szakkozepiskola,Rural,5.657
+2017-01-01,Szekely Mozes Altalanos Iskola,Rural,6.105
+2017-01-01,Vaskertes Altalanos Iskola,Urban,5.602
+2019-01-01,Baczkamadarasi Kis Gergely Reformatus Kollegium,Urban,6.461
+2019-01-01,Bethlen Gabor Altalanos Iskola,Rural,5.245
+2019-01-01,Bethlen Gabor Altalanos Iskola,Urban,6.284
+2019-01-01,Colegiul National "Octavian Goga" Miercurea Ciuc,Urban,7.175
+2019-01-01,Dr. Pallo Imre Muveszeti Liceum,Urban,6.057
+2019-01-01,Endes Jozsef Altalanos Iskola,Rural,5.2
+2019-01-01,Fogarasy Mihaly Altalanos Iskola,Urban,6.726
+2019-01-01,Frater Gyorgy Altalanos Iskola,Rural,5.471
+2019-01-01,Gyergyotolgyesi Altalanos Iskola,Rural,6.375
+2019-01-01,Jozsef Attila Altalanos Iskola,Urban,6.826
+2019-01-01,Kollo Miklos Altalanos Iskola,Rural,5.869
+2019-01-01,Marton Aron Altalanos Iskola,Rural,5.77
+2019-01-01,Mora Ferenc Altalanos Iskola,Urban,6.28
+2019-01-01,Nagy Imre Altalanos Iskola,Urban,6.891
+2019-01-01,Nagy Istvan Muveszeti Kozepiskola,Urban,6.815
+2019-01-01,Orban Balazs Altalanos Iskola,Urban,6.851
+2019-01-01,Petofi Sandor Altalanos Iskola,Urban,6.671
+2019-01-01,Petofi Sandor Altalanos Iskola,Urban,5.374
+2019-01-01,Scoala Gimnaziala "Liviu Rebreanu" Miercurea Ciuc,Urban,7.69
+2019-01-01,Scoala Gimnaziala "Miron Cristea" Toplita,Urban,5.215
+2019-01-01,Scoala Gimnaziala "Sfantu Ilie" Toplita,Urban,5.879
+2019-01-01,Sover Elek Szakkozepiskola,Rural,5.453
+2019-01-01,Szekely Mozes Altalanos Iskola,Rural,5.404
+2019-01-01,Tamasi Aron Altalanos Iskola,Urban,6.28
+2019-01-01,Vaskertes Altalanos Iskola,Urban,6.279
+2020-01-01,Aprily Lajos Altalanos Iskola,Rural,5.215
+2020-01-01,Baczkamadarasi Kis Gergely Reformatus Kollegium,Urban,7.341
+2020-01-01,Bethlen Gabor Altalanos Iskola,Rural,6.523
+2020-01-01,Bethlen Gabor Altalanos Iskola,Urban,7.265
+2020-01-01,Colegiul National Octavian Goga Miercurea Ciuc,Urban,8.048
+2020-01-01,Dr. P. Boros Fortunat Elmeleti Kozepiskola,Rural,5.214
+2020-01-01,Dr. Pallo Imre Muveszeti Liceum,Urban,7.237
+2020-01-01,Elekes Vencel Altalanos Iskola,Rural,6.561
+2020-01-01,Endes Jozsef Altalanos Iskola,Rural,5.366
+2020-01-01,Fogarasy Mihaly Altalanos Iskola,Urban,7.221
+2020-01-01,Jozsef Attila Altalanos Iskola,Urban,7.225
+2020-01-01,Jozsef Attila Altalanos Iskola,Urban,5.995
+2020-01-01,Korondi Szakkozepiskola,Rural,6.458
+2020-01-01,Liceul Teoretic O.C.Taslauanu Toplita,Urban,8.18
+2020-01-01,Marton Aron Altalanos Iskola,Rural,5.431
+2020-01-01,Mora Ferenc Altalanos Iskola,Urban,6.787
+2020-01-01,Nagy Imre Altalanos Iskola,Urban,7.1
+2020-01-01,Nagy Istvan Muveszeti Kozepiskola,Urban,7.842
+2020-01-01,Orban Balazs Altalanos Iskola,Urban,7.802
+2020-01-01,Petofi Sandor Altalanos Iskola,Urban,6.659
+2020-01-01,Petofi Sandor Altalanos Iskola,Urban,6.386
+2020-01-01,Scoala Gimnaziala Miron Cristea Toplita,Urban,6.654
+2020-01-01,Scoala Gimnaziala Sfantu Ilie Toplita,Urban,6.318
+2020-01-01,Sover Elek Szakkozepiskola,Rural,6.279
+2020-01-01,Szekely Mozes Altalanos Iskola,Rural,6.409
+2020-01-01,Szent Andras Altalanos Iskola,Rural,4.307
+2020-01-01,Tamasi Aron Altalanos Iskola,Urban,5.847
+2020-01-01,Tompa Laszlo Altalanos Iskola,Urban,4.886
+2020-01-01,Vaskertes Altalanos Iskola,Urban,5.728
