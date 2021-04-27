@@ -9,6 +9,8 @@
     <button onclick="UrbHr()">UrbHr</button>
     <br>
     <button onclick="RurHr()">RurHr</button>
+    <br>
+    <button onclick="Min30db()">Min30db</button>
 
     <script>
         function mixHr(){
@@ -23,6 +25,9 @@
             sessionStorage.setItem("pathToFile", "./files/adatRurHr");
             window.location = "./index.html"; 
         }
+        function Min30db(){
+            sessionStorage.setItem("pathToFile", "./files/adatmin30Hr");
+            window.location = "./index.html"; 
+        }
     </script>
-
 </body>
